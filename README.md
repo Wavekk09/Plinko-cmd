@@ -66,7 +66,7 @@ Planned features:
 
 ## 🧾 Credits
 
-- Created by: **Khrie**
+- Created by: **Wavekk09**
 - Game: **Plinko CMD (Batch Edition)**
 - Built using: Windows Batch Scripting
 
